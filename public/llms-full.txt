@@ -2,13 +2,13 @@
 
 A recycling-focused platform that helps users locate nearby recycling collection points for various materials such as plastic, metal, and other recyclables. The core feature is an interactive map that displays recycling stations by material type, making it easy for residents to find the right drop-off location in their area.
 
-Source: https://-965099ed.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו נקודות מחזור קרובות לביתכם — בית הספר אשכול עכו
 
-URL: https://-965099ed.zappy5.app
+URL: https://example.com
 Description: מחפשים פתרונות לניהול פסולת ומחזור באזורכם? הפלטפורמה שלנו מחברת אתכם לנקודות איסוף לחומרים מגוונים. הצטרפו למהפכת המיחזור עוד היום!
 
 גלו נקודות מחזור קרובות לביתכם — בית הספר אשכול עכו
@@ -472,7 +472,7 @@ Description: מחפשים פתרונות לניהול פסולת ומחזור ב
 
 ## מפה חכמה לאיתור פחי מחזור לפי חומר — בית הספר אשכול עכו
 
-URL: https://-965099ed.zappy5.app/recycling-map
+URL: https://example.com/recycling-map
 Description: אתרו במדויק תחנות מחזור לפלסטיק, מתכת ועוד במפה האינטראקטיבית שלנו. הקליקו, מיינו והפכו את ניהול הפסולת לפשוט ואפקטיבי. התחילו למחזר נכון!
 
 מפה חכמה לאיתור פחי מחזור לפי חומר — בית הספר אשכול עכו
@@ -929,7 +929,7 @@ Description: אתרו במדויק תחנות מחזור לפלסטיק, מתכ�
 
 ## הדרך הקלה להתחיל למחזר בשלושה צעדים — בית הספר אשכול עכו
 
-URL: https://-965099ed.zappy5.app/how-it-works
+URL: https://example.com/how-it-works
 Description: איך הופכים את ניהול הפסולת הביתי למשימה פשוטה? גלו את התהליך המהיר לאיתור, מיון והטמנה נכונה של חומרים. המסע לעתיד ירוק מתחיל כאן!
 
 הדרך הקלה להתחיל למחזר בשלושה צעדים — בית הספר אשכול עכו
@@ -1284,7 +1284,7 @@ Description: איך הופכים את ניהול הפסולת הביתי למש�
 
 ## הסיפור שמאחורי מהפכת המיחזור בעכו — בית הספר אשכול עכו
 
-URL: https://-965099ed.zappy5.app/about
+URL: https://example.com/about
 Description: הכירו את החזון והאנשים שמקדמים ניהול פסולת חכם בקהילה. אנו מחויבים להנגשת מידע, חינוך סביבתי וקיימות עירונית. בואו להיות חלק מהשינוי!
 
 הסיפור שמאחורי מהפכת המיחזור בעכו — בית הספר אשכול עכו
@@ -1669,7 +1669,7 @@ Description: הכירו את החזון והאנשים שמקדמים ניהול
 
 ## יש לכם שאלה על מחזור? דברו איתנו — בית הספר אשכול עכו
 
-URL: https://-965099ed.zappy5.app/contact
+URL: https://example.com/contact
 Description: צריכים עזרה באיתור נקודת איסוף או מידע על ניהול פסולת? צרו קשר עם הצוות שלנו וקבלו מענה מהיר ומקצועי. נשמח לשמוע מכם ולתת שירות אישי!
 
 יש לכם שאלה על מחזור? דברו איתנו — בית הספר אשכול עכו
@@ -2006,7 +2006,7 @@ Description: צריכים עזרה באיתור נקודת איסוף או מי�
 
 ## מדיניות פרטיות
 
-URL: https://-965099ed.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2246,7 +2246,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-965099ed.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2495,7 +2495,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-965099ed.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -2763,7 +2763,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה רבה - הודעתך התקבלה | בית הספר אשכול עכו
 
-URL: https://-965099ed.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה על פנייתך לבית הספר אשכול עכו. פנייתך בנושא waste waste management התקבלה בהצלחה ונחזור אליך בהקדם.
 
 תודה רבה - הודעתך התקבלה | בית הספר אשכול עכו
