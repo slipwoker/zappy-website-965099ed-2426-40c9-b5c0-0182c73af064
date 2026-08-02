@@ -1,0 +1,87 @@
+# בית הספר אשכול עכו — Generative Engine Optimization Map
+
+> A recycling-focused platform that helps users locate nearby recycling collection points for various materials such as plastic, metal, and other recyclables. The core feature is an interactive map that displays recycling stations by material type, making it easy for residents to find the right drop-off location in their area.
+
+---
+
+## Pages
+
+### בית
+https://-965099ed.zappy5.app
+מחפשים פתרונות לניהול פסולת ומחזור באזורכם? הפלטפורמה שלנו מחברת אתכם לנקודות איסוף לחומרים מגוונים. הצטרפו למהפכת המיחזור עוד היום!
+
+### מפת מחזור
+https://-965099ed.zappy5.app/recycling-map
+אתרו במדויק תחנות מחזור לפלסטיק, מתכת ועוד במפה האינטראקטיבית שלנו. הקליקו, מיינו והפכו את ניהול הפסולת לפשוט ואפקטיבי. התחילו למחזר נכון!
+
+### איך זה עובד
+https://-965099ed.zappy5.app/how-it-works
+איך הופכים את ניהול הפסולת הביתי למשימה פשוטה? גלו את התהליך המהיר לאיתור, מיון והטמנה נכונה של חומרים. המסע לעתיד ירוק מתחיל כאן!
+
+### אודות
+https://-965099ed.zappy5.app/about
+הכירו את החזון והאנשים שמקדמים ניהול פסולת חכם בקהילה. אנו מחויבים להנגשת מידע, חינוך סביבתי וקיימות עירונית. בואו להיות חלק מהשינוי!
+
+### צור קשר
+https://-965099ed.zappy5.app/contact
+צריכים עזרה באיתור נקודת איסוף או מידע על ניהול פסולת? צרו קשר עם הצוות שלנו וקבלו מענה מהיר ומקצועי. נשמח לשמוע מכם ולתת שירות אישי!
+
+### תודה רבה - הודעתך התקבלה | בית הספר אשכול עכו
+https://-965099ed.zappy5.app/thank-you
+תודה על פנייתך לבית הספר אשכול עכו. פנייתך בנושא waste waste management התקבלה בהצלחה ונחזור אליך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-965099ed.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-965099ed.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-965099ed.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-965099ed.zappy5.app/contact
+- Endpoint: https://-965099ed.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בית הספר אשכול עכו
+A recycling-focused platform that helps users locate nearby recycling collection points for various materials such as plastic, metal, and other recyclables. The core feature is an interactive map that displays recycling stations by material type, making it easy for residents to find the right drop-off location in their area.
+
+## Target Audience
+- תושבים המעוניינים למחזר פסולת כגון פלסטיק, מתכת ועוד
+- תושבים המעוניינים למחזר
+- תלמידים בעלי מודעות סביבתית
+- מנהיגי קהילה מקומיים
+
+## Industry
+Recycling & Waste Management
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-965099ed.zappy5.app/sitemap.xml
+- Robots: https://-965099ed.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-965099ed.zappy5.app/llms-full.txt
